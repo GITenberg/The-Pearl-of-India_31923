@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1543
     wikipedia: http://en.wikipedia.org/wiki/Maturin_Murray_Ballou
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31923#The-Pearl-of-India
 gutenberg_issued: '2010-04-08'
 gutenberg_type: Text
 identifiers:
